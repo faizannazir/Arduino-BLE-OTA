@@ -6,24 +6,19 @@
     "repository":
     {
       "type": "git",
-      "url": "https://github.com/vovagorodok/ArduinoBleOTA"
+      "url": "https://github.com/faizannazir/ArduinoIDEBle-OTA/"
     },
     "authors":
     [
       {
-        "name": "vovagorodok",
-        "email": "vovagorodok2@gmail.com",
-        "url": "https://github.com/vovagorodok",
+        "name": "faizannazir289@gmail.com",
+        "email": "faizannazir289@gmail.com",
+        "url": "https://github.com/faizannazir",
         "maintainer": true
-      },
-      {
-        "name": "dkwach",
-        "email": "dawid.kwach@gmail.com",
-        "url": "https://github.com/dkwach"
       }
     ],
     "license": "MIT",
-    "homepage": "https://github.com/vovagorodok/ArduinoBleOTA",
+    "homepage": "https://github.com/faizannazir/ArduinoIDEBle-OTA/",
     "dependencies":
     {
       "jandrassy/ArduinoOTA":"^1.0.10",
